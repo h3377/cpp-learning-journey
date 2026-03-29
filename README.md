@@ -37,6 +37,28 @@ My C++ learning progress with debugging practice and mini projects
 - [x] MyMathLib, MyGeometryLib, MyInputLib
 - [x] MyStringLib, MyValidationLib
 
+# 🚀 My C++ Libraries Collection
+
+&gt; Libraries created while learning "Introduction to Programming Using C++ - Level 2"
+
+## 📚 Library Collection
+
+| Library | Purpose | Key Functions |
+|---------|---------|---------------|
+| **MyLib** | General utilities | `Test()`, `sum2Numbers()` |
+| **MyInputLib** | Input handling | `ReadNumber()`, `ReadPositiveNumber()`, `ReadNumberInRange()`, `ReadDouble()` |
+| **MyMathLib** | Math operations | `Power()`, `Abs()`, `Max()`, `Min()` |
+| **MyGeometryLib** | Shape calculations | `CircleArea()`, `RectangleArea()`, `TriangleArea()`, `BoxVolume()` |
+| **MyStringLib** | String manipulation | `ReverseString()`, `CountVowels()`, `ToUpper()` |
+| **MyValidationLib** | Number validation | `IsPrime()`, `IsPerfectNumber()`, `IsPalindromeNumber()` |
+
+## 🛠️ How to Use
+
+### 1. Clone Repository
+```bash
+git clone https://github.com/[h3377]/cpp-libraries.git
+cd cpp-libraries
+
 
 ## Connect With Me
 - LinkedIn: [https://www.linkedin.com/mypreferences/d/categories/account]
