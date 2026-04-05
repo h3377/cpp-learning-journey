@@ -13,7 +13,7 @@ My C++ learning progress with debugging practice and mini projects
 - [x] Watch window and memory inspection
 - [x] Stack frame visualization
 
-###  Week 2: Pointers & References (in progress)
+###  Week 2: Pointers & References 
 
 - [x] Address (&) and dereference (*) operators
 - [x] Debugging pointers with Watch window
@@ -36,6 +36,14 @@ My C++ learning progress with debugging practice and mini projects
 - [x] Namespaces
 - [x] MyMathLib, MyGeometryLib, MyInputLib
 - [x] MyStringLib, MyValidationLib
+
+
+### ✅ week 4: Miscellaneous
+- [x] Creating Custom Libraries (headers, namespaces, #pragma once)
+- [x] Ternary Operator (?: shorthand if-else)
+- [x] Validate Number
+- [x] Range-Based For Loops (modern iteration)
+- [x] Bitwise Operators (&, |)
 
 # 🚀 My C++ Libraries Collection
 
