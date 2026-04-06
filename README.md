@@ -45,6 +45,11 @@ My C++ learning progress with debugging practice and mini projects
 - [x] Range-Based For Loops (modern iteration)
 - [x] Bitwise Operators (&, |)
 
+### ✅ Week 5: Advanced Functions
+- [x] Function declaration vs definition
+- [x] Default parameters
+- [x] Flexible input functions
+
 # 🚀 My C++ Libraries Collection
 
 &gt; Libraries created while learning "Introduction to Programming Using C++ - Level 2"
@@ -60,12 +65,7 @@ My C++ learning progress with debugging practice and mini projects
 | **MyStringLib** | String manipulation | `ReverseString()`, `CountVowels()`, `ToUpper()` |
 | **MyValidationLib** | Number validation | `IsPrime()`, `IsPerfectNumber()`, `IsPalindromeNumber()` |
 
-## 🛠️ How to Use
 
-### 1. Clone Repository
-```bash
-git clone https://github.com/[h3377]/cpp-libraries.git
-cd cpp-libraries
 
 
 ## Connect With Me
