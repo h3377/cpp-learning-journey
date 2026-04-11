@@ -49,6 +49,9 @@ My C++ learning progress with debugging practice and mini projects
 - [x] Function declaration vs definition
 - [x] Default parameters
 - [x] Flexible input functions
+- [x]Function Overloading
+- [x]Call Stack & Function Hierarchy
+- [x] VS Function Tips
 
 # 🚀 My C++ Libraries Collection
 
