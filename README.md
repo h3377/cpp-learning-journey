@@ -54,6 +54,13 @@ My C++ learning progress with debugging practice and mini projects
 - [x] VS Function Tips
 - [x]Recursion
 
+### ✅ Week 6: more about Variable 
+- [x] Static variables (persistent locals)
+- [x] Auto keyword variables (type deduction)
+- [x] Register keyword variables (historical/obsolete)
+- [x] Memory hierarchy understanding
+- [x] Static for counters and memoization
+
 # 🚀 My C++ Libraries Collection
 
 &gt; Libraries created while learning "Introduction to Programming Using C++ - Level 2"
