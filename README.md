@@ -61,6 +61,12 @@ My C++ learning progress with debugging practice and mini projects
 - [x] Memory hierarchy understanding
 - [x] Static for counters and memoization
 
+### ✅ Week 7: Complete printf Formatting
+- [x] Integer formatting (%d, %0*d)
+- [x] Float formatting (%f, %.*f, %.2f)
+- [x] String formatting (%s, %10s, %-10s)
+- [x] Char formatting (%c, %*c)
+
 # 🚀 My C++ Libraries Collection
 
 &gt; Libraries created while learning "Introduction to Programming Using C++ - Level 2"
