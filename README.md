@@ -66,6 +66,7 @@ My C++ learning progress with debugging practice and mini projects
 - [x] Float formatting (%f, %.*f, %.2f)
 - [x] String formatting (%s, %10s, %-10s)
 - [x] Char formatting (%c, %*c)
+- [x] setw Manipulator
 
 # 🚀 My C++ Libraries Collection
 
