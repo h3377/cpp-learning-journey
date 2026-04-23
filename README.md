@@ -67,7 +67,13 @@ My C++ learning progress with debugging practice and mini projects
 - [x] String formatting (%s, %10s, %-10s)
 - [x] Char formatting (%c, %*c)
 - [x] setw Manipulator
-
+### ✅ Week 8:Two dimensional Arrays
+- [x] Declaration and initialization
+- [x] Nested loops for traversal
+- [x] Row-major memory layout
+- [x] Debugging with breakpoints in nested loops
+- [x] Multiplication table with printf formatting
+- [x] Row/column sums, diagonals, transpose
 # 🚀 My C++ Libraries Collection
 
 &gt; Libraries created while learning "Introduction to Programming Using C++ - Level 2"
