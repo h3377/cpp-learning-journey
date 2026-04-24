@@ -69,8 +69,8 @@ My C++ learning progress with debugging practice and mini projects
 - [x] setw Manipulator
 ### ✅ Week 8:Two dimensional Arrays
 - [x] Declaration and initialization
+- [x] #include <vector>
 - [x] Nested loops for traversal
-- [x] Row-major memory layout
 - [x] Debugging with breakpoints in nested loops
 - [x] Multiplication table with printf formatting
 - [x] Row/column sums, diagonals, transpose
