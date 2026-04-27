@@ -74,8 +74,15 @@ My C++ learning progress with debugging practice and mini projects
 - [x] Debugging with breakpoints in nested loops
 - [x] Multiplication table with printf formatting
 - [x] Row/column sums, diagonals, transpose
-- [x] Add Elements Vector 
+- [x] Add Elements Vector
+
+### ✅ Week 9:Vector Part 1
+- [x] Vector structure
+- [ ] Remove Elements
+- [ ] Vector function 
 # 🚀 My C++ Libraries Collection
+
+
 
 &gt; Libraries created while learning "Introduction to Programming Using C++ - Level 2"
 
