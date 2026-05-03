@@ -78,8 +78,18 @@ My C++ learning progress with debugging practice and mini projects
 
 ### ✅ Week 9:Vector Part 1
 - [x] Vector structure
-- [ ] Remove Elements
-- [ ] Vector function 
+- [x] Remove Elements
+- [x] Vector function
+
+### ✅ Week 9:pointer vs references
+- [x] call by reference and value
+- [x] creating Reference
+- [ ] What's a pointer
+- [ ] deferencing pointer
+- [ ] common mistakes with pointers
+- [ ] pointers vs reference
+- [ ] call by reference using pointers
+- [ ] pointers and arrays
 # 🚀 My C++ Libraries Collection
 
 
