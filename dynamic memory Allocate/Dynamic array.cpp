@@ -19,7 +19,7 @@ int main()
 	for (int i = 0; i < num; i++)
 	{
 		cout << "student" << i + 1;
-		cin >> *(ptr + 1);
+		cin >> *(ptr + i);
 
 
 	}
@@ -28,7 +28,7 @@ int main()
 
 	for (int i = 0; i < num; i++)
 	{
-		cout << "student" << i + 1 << ": " << *(ptr + 1) << endl;
+		cout << "student" << i + 1 << ": " << *(ptr + i) << endl;
 	}
 
   //ptr memory is released
