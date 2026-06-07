@@ -12,3 +12,15 @@
 
 ### Problem Statement
 Fill a 3×3 matrix with random numbers (1–100), then calculate and display the sum of each row
+
+## Problems #03 & #04 — Column Sums + Store Row Sums
+
+**Course:** Algorithms & Problem Solving – Level 3  
+**Topic:** 2D Arrays, Column Traversal, Aggregation, Array Reuse  
+**Difficulty:** Foundation
+
+---
+
+### Problem #03 — Sum Each Column
+
+**Statement:** Fill a 3×3 matrix with random numbers, then calculate and display the sum of each column.
