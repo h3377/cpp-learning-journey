@@ -24,3 +24,21 @@ Fill a 3×3 matrix with random numbers (1–100), then calculate and display the
 ### Problem #03 — Sum Each Column
 
 **Statement:** Fill a 3×3 matrix with random numbers, then calculate and display the sum of each column.
+
+## Problem #03.5 — Store Column Sums in an Array
+
+**Course:** Algorithms & Problem Solving – Level 3  
+**Topic:** 2D Arrays, Column Aggregation, Array Storage, Debugging  
+**Difficulty:** Foundation + Bug Hunting
+
+---
+
+### What I Built
+
+A program that:
+1. Fills a 3×3 matrix with random numbers (1–100)
+2. Calculates the sum of each column
+3. Stores those sums in a separate array
+4. Prints the matrix and the sums
+
+---
