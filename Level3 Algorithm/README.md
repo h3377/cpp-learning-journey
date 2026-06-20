@@ -42,3 +42,8 @@ A program that:
 4. Prints the matrix and the sums
 
 ---
+### problem #11 check matrices equality
+
+**Course:** Algorithms & Problem Solving – Level 3  
+**Topic:** 2D Arrays, Column Aggregation, Array Storage, Debugging  
+**Difficulty:** Foundation + Bug Hunting
