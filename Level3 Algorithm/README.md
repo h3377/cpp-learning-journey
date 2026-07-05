@@ -47,3 +47,6 @@ A program that:
 **Course:** Algorithms & Problem Solving – Level 3  
 **Topic:** 2D Arrays, Column Aggregation, Array Storage, Debugging  
 **Difficulty:** Foundation + Bug Hunting
+
+### Problem #18: Intersected Matrix
+**Course:** Algorithms & Problem Solving – Level 3 
