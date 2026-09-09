@@ -12,9 +12,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+    - uses: actions/checkout@v
     - name: autoreconf
       run: autoreconf -i
-    - uses: actions/checkout@v4
     - name: configure
       run: ./configure
     - name: make
